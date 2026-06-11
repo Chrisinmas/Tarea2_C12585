@@ -32,8 +32,8 @@ npm run dev
 ![GET /](capturas/get-root.png)
 
 ### GET /mundiales
-![GET /mundiales 1](capturas/get-mundiales-1.png)
-![GET /mundiales 2](capturas/get-mundiales-2.png)
+![GET /mundiales 1](capturas/get-mundiales1.png)
+![GET /mundiales 2](capturas/get-mundiales2.png)
 
 ### GET /mundiales?include=full
 ![GET /mundiales full 1](capturas/get-mundiales-full-1.png)
